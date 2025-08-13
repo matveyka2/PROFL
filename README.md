@@ -11,4 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="First python"/>
   </a>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
