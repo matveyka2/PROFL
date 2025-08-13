@@ -19,3 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
