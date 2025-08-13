@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlZHFza2JkeHJnYTJ3dWE4N2p4eXpzajc4NHVuYjl6cW15NjVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=matveyka2&style=flat-square&color=blue" alt=""/>
 <div id="badges" align="center">
   <a href="https://github.com/matveyka2/auto4zapretDiscord">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="First python"/>
   </a>
 
-<img src="https://komarev.com/ghpvc/?username=matveyka2&style=flat-square&color=blue" alt=""/>
+
