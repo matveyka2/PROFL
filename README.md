@@ -6,3 +6,5 @@
   <a href="https://github.com/matveyka2/auto4zapretDiscord">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="First python"/>
   </a>
+
+<img src="https://komarev.com/ghpvc/?username=matveyka2&style=flat-square&color=blue" alt=""/>
